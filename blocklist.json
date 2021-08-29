@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "*",
+        "selector": "img[src$='.gif'"
+    },
+    {
+        "domain": "www.onlinekhabar.com",
+        "selector": ".ok_roadblock,.add__fullwidth,.top__ads,.left_add,.side__add,.okam-each-ad,.okam-ad-position-wrap"
+    },
+    {
+        "domain": "ekantipur.com",
+        "selector": "#roadblock-ad"
+    }
+]
